@@ -1,0 +1,15 @@
+app-messages {
+    .main {
+        display: flex;
+        flex-direction: column;
+
+        .list {
+            flex: 1 0 auto;
+        }
+        
+        .footer {
+            background: #42A5F5;
+            padding: 20px;
+        }
+    }
+}
